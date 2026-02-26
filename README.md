@@ -88,7 +88,9 @@
 
 ## Ⅳ. 현재 포함된 문서
 
-> 통합 세계관에 맞추어 문서 개편 진행 중.
+- CIA Directorate of Plans Orientation (1963)
+- SIS Induction Memorandum (1963)
+- KGB First Chief Directorate Training Manual (1962)
 
 ---
 
